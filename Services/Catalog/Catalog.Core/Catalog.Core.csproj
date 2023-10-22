@@ -10,4 +10,5 @@
         <PackageReference Include="AspNetCore.HealthChecks.MongoDb" Version="6.0.2"/>
     </ItemGroup>
 
+
 </Project>
